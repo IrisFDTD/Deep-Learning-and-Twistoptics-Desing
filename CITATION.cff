@@ -1,0 +1,85 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Deep learning design of nanoscale polariton propagations in twisted van der Waals multilayers"
+abstract: "Nano-optics aims to understand and control the propagation of light at the nanoscale through the excitation of surface polaritons: hybrid light–matter quasiparticles. Recently, twisted van der Waals materials have enabled unprecedented phonon polariton propagations, such as canalization. However, nano-optics still presents an important limitation: obtaining polariton propagations on demand. Here we combine deep neural networks with twisted polaritonic multilayers to enable on-demand design of phonon polariton propagation. We demonstrate canalization, bicanalization and tricanalization in twisted α-MoO3 homostructures over previously unexplored frequencies (600–800 cm−1). We illustrate the practical potential of our method by achieving a desired polariton propagation in an existing α-MoO3 bilayer by adding an extra α-MoO3 layer. Finally, we extend our neural networks to a variety of other materials, allowing us to predict canalization from the visible to the terahertz regime. Our deep-learning-based approach offers considerable potential for advancing nanophotonic applications in areas such as sensing or thermal management."
+version: 1.0.0
+date-released: 2026-08-28
+license: MIT
+repository-code: "https://github.com"
+keywords:
+  - nano-optics
+  - phonon polaritons
+  - deep learning
+  - twisted van der Waals multilayers
+  - canalization
+authors:
+  - family-names: "Álvarez-Tomillo"
+    given-names: "Lucía F."
+    orcid: "https://orcid.org"
+    affiliation: "Department of Physics, University of Oviedo, Oviedo, Spain; Center of Research on Nanomaterials and Nanotechnology, CINN (CSIC-Universidad de Oviedo), El Entrego, Spain"
+  - family-names: "Álvarez-Cuervo"
+    given-names: "José"
+    orcid: "https://orcid.org"
+    affiliation: "Department of Physics, University of Oviedo, Oviedo, Spain; Center of Research on Nanomaterials and Nanotechnology, CINN (CSIC-Universidad de Oviedo), El Entrego, Spain"
+  - family-names: "Calvo-Barlés"
+    given-names: "Pablo"
+    orcid: "https://orcid.org/0000-0002-8371-9840"
+    affiliation: "Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, Zaragoza, 50009, Spain; Departamento de Física de la Materia Condensada, Universidad de Zaragoza, Zaragoza, 50009, Spain"
+  - family-names: "Rodrigo"
+    given-names: "Sergio G."
+    orcid: "https://orcid.org/0000-0001-6575-168X"
+    affiliation: "Departamento de Física Aplicada, Universidad de Zaragoza, Zaragoza, 50009, Spain; Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, Zaragoza, 50009, Spain"
+  - family-names: "Terán-García"
+    given-names: "Enrique"
+    orcid: "https://orcid.org"
+    affiliation: "Department of Physics, University of Oviedo, Oviedo, Spain; Center of Research on Nanomaterials and Nanotechnology, CINN (CSIC-Universidad de Oviedo), El Entrego, Spain"
+  - family-names: "Tarazaga Martín-Luengo"
+    given-names: "Aitana"
+    orcid: "https://orcid.org"
+    affiliation: "Department of Physics, University of Oviedo, Oviedo, Spain; Center of Research on Nanomaterials and Nanotechnology, CINN (CSIC-Universidad de Oviedo), El Entrego, Spain"
+  - family-names: "Voronin"
+    given-names: "Kirill V."
+    orcid: "https://orcid.org"
+    affiliation: "Donostia International Physics Center (DIPC), Donostia-San Sebastián, 20018, Spain"
+  - family-names: "Nikitin"
+    given-names: "Alexey Y."
+    orcid: "https://orcid.org"
+    affiliation: "Donostia International Physics Center (DIPC), Donostia-San Sebastián, 20018, Spain; IKERBASQUE, Basque Foundation for Science, Bilbao, 48013, Spain"
+  - family-names: "Martín-Moreno"
+    given-names: "Luis"
+    orcid: "https://orcid.org/0000-0001-9273-8165"
+    affiliation: "Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, Zaragoza, 50009, Spain; Departamento de Física de la Materia Condensada, Universidad de Zaragoza, Zaragoza, 50009, Spain"
+  - family-names: "Alonso-González"
+    given-names: "Pablo"
+    orcid: "https://orcid.org"
+    affiliation: "Department of Physics, University of Oviedo, Oviedo, Spain; Center of Research on Nanomaterials and Nanotechnology, CINN (CSIC-Universidad de Oviedo), El Entrego, Spain"
+preferred-citation:
+  type: article
+  title: "Deep learning design of nanoscale polariton propagations in twisted van der Waals multilayers"
+  journal: "Nature Materials"
+  year: 2026
+  issn: "1476-4660"
+  doi: "10.1038/s41563-026-02723-2"
+  url: "https://doi.org/10.1038/s41563-026-02723-2"
+  authors:
+    - family-names: "Álvarez-Tomillo"
+      given-names: "Lucía F."
+    - family-names: "Álvarez-Cuervo"
+      given-names: "José"
+    - family-names: "Calvo-Barlés"
+      given-names: "Pablo"
+    - family-names: "Rodrigo"
+      given-names: "Sergio G."
+    - family-names: "Terán-García"
+      given-names: "Enrique"
+    - family-names: "Tarazaga Martín-Luengo"
+      given-names: "Aitana"
+    - family-names: "Voronin"
+      given-names: "Kirill V."
+    - family-names: "Nikitin"
+      given-names: "Alexey Y."
+    - family-names: "Martín-Moreno"
+      given-names: "Luis"
+    - family-names: "Alonso-González"
+      given-names: "Pablo"

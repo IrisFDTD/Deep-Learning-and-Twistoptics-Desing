@@ -1,0 +1,80 @@
+{
+  "title": "Deep learning design of nanoscale polariton propagations in twisted van der Waals multilayers",
+  "description": "<p>Software implementation for <em>Deep learning design of nanoscale polariton propagations in twisted van der Waals multilayers</em>.</p><p>Nano-optics aims to understand and control the propagation of light at the nanoscale through the excitation of surface polaritons: hybrid light–matter quasiparticles. Recently, twisted van der Waals materials have enabled unprecedented phonon polariton propagations, such as canalization. However, nano-optics still presents an important limitation: obtaining polariton propagations on demand. Here we combine deep neural networks with twisted polaritonic multilayers to enable on-demand design of phonon polariton propagation. We demonstrate canalization, bicanalization and tricanalization in twisted α-MoO3 homostructures over previously unexplored frequencies (600–800 cm−1). We illustrate the practical potential of our method by achieving a desired polariton propagation in an existing α-MoO3 bilayer by adding an extra α-MoO3 layer. Finally, we extend our neural networks to a variety of other materials, allowing us to predict canalization from the visible to the terahertz regime. Our deep-learning-based approach offers considerable potential for advancing nanophotonic applications in areas such as sensing or thermal management.</p>",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "publication_date": "2026-08-28",
+  "keywords": [
+    "nano-optics",
+    "phonon polaritons",
+    "deep learning",
+    "twisted van der Waals multilayers",
+    "canalization"
+  ],
+  "creators": [
+    {
+      "name": "Álvarez-Tomillo, Lucía F.",
+      "affiliation": "Department of Physics, University of Oviedo, Oviedo, Spain; Center of Research on Nanomaterials and Nanotechnology, CINN (CSIC-Universidad de Oviedo), El Entrego, Spain",
+      "orcid": "0009-0006-0553-1005"
+    },
+    {
+      "name": "Álvarez-Cuervo, José",
+      "affiliation": "Department of Physics, University of Oviedo, Oviedo, Spain; Center of Research on Nanomaterials and Nanotechnology, CINN (CSIC-Universidad de Oviedo), El Entrego, Spain",
+      "orcid": "0009-0005-6276-6268"
+    },
+    {
+      "name": "Calvo-Barlés, Pablo",
+      "affiliation": "Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, Zaragoza, 50009, Spain; Departamento de Física de la Materia Condensada, Universidad de Zaragoza, Zaragoza, 50009, Spain",
+      "orcid": "0000-0002-8371-9840"
+    },
+    {
+      "name": "Rodrigo, Sergio G.",
+      "affiliation": "Departamento de Física Aplicada, Universidad de Zaragoza, Zaragoza, 50009, Spain; Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, Zaragoza, 50009, Spain",
+      "orcid": "0000-0001-6575-168X"
+    },
+    {
+      "name": "Terán-García, Enrique",
+      "affiliation": "Department of Physics, University of Oviedo, Oviedo, Spain; Center of Research on Nanomaterials and Nanotechnology, CINN (CSIC-Universidad de Oviedo), El Entrego, Spain",
+      "orcid": "0000-0003-3049-1472"
+    },
+    {
+      "name": "Tarazaga Martín-Luengo, Aitana",
+      "affiliation": "Department of Physics, University of Oviedo, Oviedo, Spain; Center of Research on Nanomaterials and Nanotechnology, CINN (CSIC-Universidad de Oviedo), El Entrego, Spain",
+      "orcid": "0000-0002-3078-4649"
+    },
+    {
+      "name": "Voronin, Kirill V.",
+      "affiliation": "Donostia International Physics Center (DIPC), Donostia-San Sebastián, 20018, Spain",
+      "orcid": "0000-0002-8911-1166"
+    },
+    {
+      "name": "Nikitin, Alexey Y.",
+      "affiliation": "Donostia International Physics Center (DIPC), Donostia-San Sebastián, 20018, Spain; IKERBASQUE, Basque Foundation for Science, Bilbao, 48013, Spain",
+      "orcid": "0000-0002-2327-0164"
+    },
+    {
+      "name": "Martín-Moreno, Luis",
+      "affiliation": "Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, Zaragoza, 50009, Spain; Departamento de Física de la Materia Condensada, Universidad de Zaragoza, Zaragoza, 50009, Spain",
+      "orcid": "0000-0001-9273-8165"
+    },
+    {
+      "name": "Alonso-González, Pablo",
+      "affiliation": "Department of Physics, University of Oviedo, Oviedo, Spain; Center of Research on Nanomaterials and Nanotechnology, CINN (CSIC-Universidad de Oviedo), El Entrego, Spain",
+      "orcid": "0000-0002-4597-9326"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1038/s41563-026-02723-2",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "your-community-slug"
+    }
+  ]
+}
